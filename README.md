@@ -19,6 +19,8 @@
 
 **GIAC Security Essentials (GSEC)**
 
+**Certified Information Privacy Professional (CIPP)**
+
 ---
 
 ### 🐾 Cat status
