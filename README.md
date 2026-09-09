@@ -1,17 +1,14 @@
-# 👋 Hi, I'm Sentry
+# Hi there, I'm Sentry 👋
 
-### 🛡️ DevSecOps & Malware Analysis
+<img align="right" height="250px" src="TON_GIF_DE_CHAT">
 
-I'm a cybersecurity enthusiast focused on **DevSecOps** and **Malware Analysis**.
+### A little bit about me:
 
----
-
-## 🛡️ About Me
-
-- 🔐 DevSecOps
-- 🦠 Malware Analysis
-- 💻 Cybersecurity
-- ⚙️ Security Automation
+- 🛡️ &nbsp; **DevSecOps**
+- 🦠 &nbsp; **Malware Analysis**
+- 🐈 &nbsp; &nbsp; Cat enjoyer
+- 💻 &nbsp; Cybersecurity enthusiast
+- 🐧 &nbsp; Linux user
 
 ---
 
@@ -19,28 +16,34 @@ I'm a cybersecurity enthusiast focused on **DevSecOps** and **Malware Analysis**
 
 - **Fortinet Certified Fundamentals (FCF) in Cybersecurity**
 - **GIAC Security Essentials (GSEC)**
-- **Certified Information Privacy Professional (CIPP)**
 
 ---
 
-## 🛠️ Technologies
+<details>
+<summary><h3>🐈 Cat stuff</h3></summary>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+### Things I like
 
----
+- 🐈 Cats
+- 🐾 Cat pictures
+- 😴 Cats sleeping
+- 🐱 Cats doing absolutely nothing
 
-## 📂 Projects
-
-My repositories contain cybersecurity projects, tools and research
-related to DevSecOps and malware analysis.
+</details>
 
 ---
 
-## ⚠️ Disclaimer
+<details>
+<summary><h3>🛠️ Technologies</h3></summary>
 
-All cybersecurity research and security testing is conducted for
-educational, defensive and authorized purposes only.
+- Python
+- Linux
+- Windows
+- Git
+- GitHub Actions
+
+</details>
+
+---
+
+> 🐈 meow.exe is running...
