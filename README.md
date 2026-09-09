@@ -19,6 +19,7 @@ I'm a cybersecurity enthusiast focused on **DevSecOps** and **Malware Analysis**
 
 - **Fortinet Certified Fundamentals (FCF) in Cybersecurity**
 - **GIAC Security Essentials (GSEC)**
+- **Certified Information Privacy Professional (CIPP)**
 
 ---
 
